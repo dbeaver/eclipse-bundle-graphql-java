@@ -28,5 +28,7 @@ Export-Package: graphql,
  graphql.parser,
  graphql.relay,
  graphql.schema,
+ graphql.schema.idl,
+ graphql.servlet,
  graphql.util,
  graphql.validation
