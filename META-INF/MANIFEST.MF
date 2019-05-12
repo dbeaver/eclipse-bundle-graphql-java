@@ -10,7 +10,7 @@ Bundle-ClassPath: lib/antlr4-runtime-4.7.2.jar,
  lib/slf4j-api-1.7.25.jar,
  lib/graphql-java-extended-scalars-1.0.jar,
  lib/okhttp-3.2.0.jar,
- lib/okio-1.6.0.jar,
+ lib/okio-1.6.0.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-Vendor: Andreas Marek and Contributors
 Eclipse-BundleShape: dir
